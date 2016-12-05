@@ -1,0 +1,6 @@
+c:\users\héctorandrés\documents\visual studio 2015\Projects\WordLookUp\WordLookUp\bin\Debug\WordLookUp.exe.config
+c:\users\héctorandrés\documents\visual studio 2015\Projects\WordLookUp\WordLookUp\bin\Debug\WordLookUp.exe
+c:\users\héctorandrés\documents\visual studio 2015\Projects\WordLookUp\WordLookUp\bin\Debug\WordLookUp.pdb
+c:\users\héctorandrés\documents\visual studio 2015\Projects\WordLookUp\WordLookUp\obj\Debug\WordLookUp.csprojResolveAssemblyReference.cache
+c:\users\héctorandrés\documents\visual studio 2015\Projects\WordLookUp\WordLookUp\obj\Debug\WordLookUp.exe
+c:\users\héctorandrés\documents\visual studio 2015\Projects\WordLookUp\WordLookUp\obj\Debug\WordLookUp.pdb
